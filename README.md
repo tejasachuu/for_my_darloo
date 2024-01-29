@@ -27,7 +27,7 @@ This repository contains the source code and assets for a website I created to i
 1. Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/tejasachuu/Impressive-Website-for-My-Girlfriend.git
+git clone https://github.com/tejasachuu/for_my_darloo.git
 ```
 
 
